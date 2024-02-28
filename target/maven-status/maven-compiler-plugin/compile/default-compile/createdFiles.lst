@@ -1,1 +1,7 @@
 tienda\demo\TiendaNicoleChavesApplication.class
+tienda\demo\ProjectConfig.class
+tienda\demo\dao\CategoriaDao.class
+tienda\demo\service\CategoriaService.class
+tienda\demo\service\impl\CategoriaServiceimpl.class
+tienda\demo\controller\CategoriaController.class
+tienda\demo\domain\Categoria.class
